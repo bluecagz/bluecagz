@@ -17,17 +17,22 @@ As an active member of the blockchain community, I’m eager to deepen my expert
 
 ---
 
-## 🚀 Future Projects
-Over the next few months, I’ll be working on the following open-source projects:
+Below is a refined version that highlights your upcoming projects and emphasizes your focus on data engineering, Rust, and blockchain protocol development. Feel free to adjust or shorten it based on your preferences:
 
-1. **Solana Protocol Sandbox**  
-   Experimenting with Rust-based protocols, delving into Solana’s architecture, and exploring smart contract design for secure and scalable dApps.
+---
 
-2. **GRPC Blockchain Library**  
-   Developing a **gRPC library and client** optimized for large-scale interactions with blockchain data, enabling efficient and robust data retrieval and processing.
+## 🚀 Upcoming Projects
 
-3. **Blockchain Indexer**  
-   Building a scalable, resilient application for ingesting, indexing, and analyzing blockchain data in near real-time to facilitate high-quality analytics and insights.
+Over the next few months, I’ll be focusing on the following open-source initiatives, showcasing my **Rust**, **data engineering**, and **protocol development** expertise while contributing to the broader blockchain community:
+
+1. **Blockchain Ingestion**  
+   A scalable pipeline designed to ingest on-chain data into PostgreSQL using core schemas for blocks, transactions, and events. It will be easily extensible to accommodate additional chains and custom data structures.
+
+2. **RAG Crypto App**  
+   An interactive chatbot that provides insights into crypto transaction activity. Users can query on-chain behaviors to make more informed decisions and gain a deeper understanding of blockchain dynamics.
+
+3. **Data Feed Smart Contract**  
+   A specialized smart contract aggregator that consolidates critical RPC data from the blockchain ingestion/indexing service. This on-chain data feed aims to improve transparency and accessibility for various blockchain-based applications.
 
 These projects will highlight my skills in **Rust**, **data engineering**, and **protocol development** while contributing to the broader open-source blockchain community.
 
